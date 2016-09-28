@@ -1,2 +1,2 @@
 # GreyLine
-A hooker used in some strange ways
+A hooker used in some strange ways.
